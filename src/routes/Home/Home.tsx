@@ -1,9 +1,9 @@
 import { Logo } from "../../components/Logo";
 import styles from "./Home.module.css";
 
-import service1Video from "../../assets/serviceImages/service1.mp4";
-import service2Image from "../../assets/serviceImages/service2.jpg";
-import service3Image from "../../assets/serviceImages/service3.jpg";
+import service1Image from "../../assets/serviceImages/service1.webp";
+import service2Image from "../../assets/serviceImages/service2.webp";
+import service3Image from "../../assets/serviceImages/service3.webp";
 
 export const Home = () => {
   return (
@@ -24,9 +24,11 @@ export const Home = () => {
         <ul>
           <li>
             <h3>Automation platform</h3>
-            <video className={styles.serviceImage} autoPlay loop muted>
-              <source src={service1Video} type="video/mp4" />
-            </video>
+            <img
+              src={service1Image}
+              alt="Advanced analytics"
+              className={styles.serviceImage}
+            />
             <p>
               Our automation platform is a cloud-based automation solution that
               helps businesses automate repetitive tasks and processes. With

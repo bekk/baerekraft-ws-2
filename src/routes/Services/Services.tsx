@@ -1,8 +1,8 @@
 import styles from "./Services.module.css";
 
-import service1Image from "../../assets/serviceImages/service1-1.jpg";
-import service2Image from "../../assets/serviceImages/service2-1.jpg";
-import service3Image from "../../assets/serviceImages/service3-1.jpg";
+import service1Image from "../../assets/serviceImages/service1-1.webp";
+import service2Image from "../../assets/serviceImages/service2-1.webp";
+import service3Image from "../../assets/serviceImages/service3-1.webp";
 
 export const Services = () => {
   return (
