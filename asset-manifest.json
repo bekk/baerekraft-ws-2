@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/baerekraft-ws-LF/static/css/main.f324c27b.css",
-    "main.js": "/baerekraft-ws-LF/static/js/main.60d17b72.js",
+    "main.js": "/baerekraft-ws-LF/static/js/main.9d08dfe7.js",
     "static/js/787.8cfa34c4.chunk.js": "/baerekraft-ws-LF/static/js/787.8cfa34c4.chunk.js",
-    "static/media/service3-1.webp": "/baerekraft-ws-LF/static/media/service3-1.1529a149116d3da7abc8.webp",
-    "static/media/service2.webp": "/baerekraft-ws-LF/static/media/service2.d90d7e0e98be8b0052eb.webp",
-    "static/media/service1-1.webp": "/baerekraft-ws-LF/static/media/service1-1.d3391133eee810a1c5da.webp",
-    "static/media/service1.webp": "/baerekraft-ws-LF/static/media/service1.4ad56eb56442d97391de.webp",
-    "static/media/service2-1.webp": "/baerekraft-ws-LF/static/media/service2-1.b9aed18f06f59fcba601.webp",
-    "static/media/service3.webp": "/baerekraft-ws-LF/static/media/service3.92384dd40c70e76f5813.webp",
+    "static/media/service3-1.webp": "/baerekraft-ws-LF/static/media/service3-1.91c0de66891e97c5491b.webp",
+    "static/media/service1-1.webp": "/baerekraft-ws-LF/static/media/service1-1.b841bb35bed8c217d69c.webp",
+    "static/media/service1.webp": "/baerekraft-ws-LF/static/media/service1.e83d302850f816b7a4cf.webp",
+    "static/media/service2.webp": "/baerekraft-ws-LF/static/media/service2.83ad3d246c77c63e6cc3.webp",
+    "static/media/service2-1.webp": "/baerekraft-ws-LF/static/media/service2-1.becf0ccccb4acd35d78d.webp",
+    "static/media/service3.webp": "/baerekraft-ws-LF/static/media/service3.35645c63d29502b6b9ba.webp",
     "index.html": "/baerekraft-ws-LF/index.html",
     "main.f324c27b.css.map": "/baerekraft-ws-LF/static/css/main.f324c27b.css.map",
-    "main.60d17b72.js.map": "/baerekraft-ws-LF/static/js/main.60d17b72.js.map",
+    "main.9d08dfe7.js.map": "/baerekraft-ws-LF/static/js/main.9d08dfe7.js.map",
     "787.8cfa34c4.chunk.js.map": "/baerekraft-ws-LF/static/js/787.8cfa34c4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f324c27b.css",
-    "static/js/main.60d17b72.js"
+    "static/js/main.9d08dfe7.js"
   ]
 }
