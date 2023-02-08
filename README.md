@@ -1,4 +1,4 @@
-# Bærekraftsworkshop med Bekk - Lag Oransje
+# Bærekraftsworkshop med Bekk - LF
 
 Dette prosjektet ble lagd med [Create React App](https://github.com/facebook/create-react-app).
 
