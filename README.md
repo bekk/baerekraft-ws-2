@@ -12,9 +12,9 @@ Klon så prosjektet med Git og kjør `npm install` for å installere avhengighet
 
 Oppgaven går ut på å gjøre nettsiden mer bærekraftig, i første omgang ved å redusere mengden data som lastes ned til brukeren.
 
-Nettsiden testes mot [websitecarbon.com](https://websitecarbon.com), som regner ut hvor mye CO2 et besøk til side genererer. Dere konkurerer med de andre lagene om å få lavest mulig CO2-utslipp. Det er premie til vinnerlaget!
+Nettsiden testes mot [Beacon](https://digitalbeacon.co/), som regner ut hvor mye CO2 et besøk til side genererer. Dere konkurerer med de andre lagene om å få lavest mulig CO2-utslipp. Det er premie til vinnerlaget!
 
-**NB:** Test **_IKKE_** nettsiden mot websitecarbon.com før dere er ferdige med workshop-en. Siden tillater kun å teste en gang i døgnet. Dersom dere tester for tidlig vil dere få en høyere score enn dere kanskje ellers hadde fått!
+Test gjerne nettsiden deres mot Beacon mens dere jobber og dytter ut endringer til GitHub Pages. Da kan dere se hvor mye CO2-utslippet har gått ned!
 
 ## Tilgjengelige kommandoer
 
