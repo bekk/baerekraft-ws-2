@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/baerekraft-ws-LF/static/css/main.f324c27b.css",
-    "main.js": "/baerekraft-ws-LF/static/js/main.9d08dfe7.js",
-    "static/js/787.8cfa34c4.chunk.js": "/baerekraft-ws-LF/static/js/787.8cfa34c4.chunk.js",
-    "static/media/service3-1.webp": "/baerekraft-ws-LF/static/media/service3-1.91c0de66891e97c5491b.webp",
-    "static/media/service1-1.webp": "/baerekraft-ws-LF/static/media/service1-1.b841bb35bed8c217d69c.webp",
-    "static/media/service1.webp": "/baerekraft-ws-LF/static/media/service1.e83d302850f816b7a4cf.webp",
-    "static/media/service2.webp": "/baerekraft-ws-LF/static/media/service2.83ad3d246c77c63e6cc3.webp",
-    "static/media/service2-1.webp": "/baerekraft-ws-LF/static/media/service2-1.becf0ccccb4acd35d78d.webp",
-    "static/media/service3.webp": "/baerekraft-ws-LF/static/media/service3.35645c63d29502b6b9ba.webp",
-    "index.html": "/baerekraft-ws-LF/index.html",
-    "main.f324c27b.css.map": "/baerekraft-ws-LF/static/css/main.f324c27b.css.map",
-    "main.9d08dfe7.js.map": "/baerekraft-ws-LF/static/js/main.9d08dfe7.js.map",
-    "787.8cfa34c4.chunk.js.map": "/baerekraft-ws-LF/static/js/787.8cfa34c4.chunk.js.map"
+    "main.css": "/baerekraft-ws-2/static/css/main.f324c27b.css",
+    "main.js": "/baerekraft-ws-2/static/js/main.7a3053ee.js",
+    "static/js/787.8cfa34c4.chunk.js": "/baerekraft-ws-2/static/js/787.8cfa34c4.chunk.js",
+    "static/media/service3-1.webp": "/baerekraft-ws-2/static/media/service3-1.91c0de66891e97c5491b.webp",
+    "static/media/service1-1.webp": "/baerekraft-ws-2/static/media/service1-1.b841bb35bed8c217d69c.webp",
+    "static/media/service1.webp": "/baerekraft-ws-2/static/media/service1.e83d302850f816b7a4cf.webp",
+    "static/media/service2.webp": "/baerekraft-ws-2/static/media/service2.83ad3d246c77c63e6cc3.webp",
+    "static/media/service2-1.webp": "/baerekraft-ws-2/static/media/service2-1.becf0ccccb4acd35d78d.webp",
+    "static/media/service3.webp": "/baerekraft-ws-2/static/media/service3.35645c63d29502b6b9ba.webp",
+    "index.html": "/baerekraft-ws-2/index.html",
+    "main.f324c27b.css.map": "/baerekraft-ws-2/static/css/main.f324c27b.css.map",
+    "main.7a3053ee.js.map": "/baerekraft-ws-2/static/js/main.7a3053ee.js.map",
+    "787.8cfa34c4.chunk.js.map": "/baerekraft-ws-2/static/js/787.8cfa34c4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f324c27b.css",
-    "static/js/main.9d08dfe7.js"
+    "static/js/main.7a3053ee.js"
   ]
 }
