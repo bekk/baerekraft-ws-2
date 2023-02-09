@@ -4,7 +4,7 @@ Dette prosjektet ble lagd med [Create React App](https://github.com/facebook/cre
 
 For å komme igang med workshoppen må dere ha Node.js installert. Det kan lastes ned herfra: [https://nodejs.org/en/](https://nodejs.org/en/)
 
-Velg versjonen som er merket "LTS".\
+Velg versjonen som er merket "LTS".
 
 Klon så prosjektet med Git og kjør `npm install` for å installere avhengigheter.
 
@@ -12,7 +12,7 @@ Klon så prosjektet med Git og kjør `npm install` for å installere avhengighet
 
 Oppgaven går ut på å gjøre nettsiden mer bærekraftig, i første omgang ved å redusere mengden data som lastes ned til brukeren.
 
-Nettsiden testes mot [Beacon](https://digitalbeacon.co/), som regner ut hvor mye CO2 et besøk til side genererer. Dere konkurerer med de andre lagene om å få lavest mulig CO2-utslipp. Det er premie til vinnerlaget!
+Nettsiden testes mot [Beacon](https://digitalbeacon.co/), som regner ut hvor mye CO2 et besøk til side genererer. Dere konkurerer med de andre lagene om å få lavest mulig CO2-utslipp.
 
 Test gjerne nettsiden deres mot Beacon mens dere jobber og dytter ut endringer til GitHub Pages. Da kan dere se hvor mye CO2-utslippet har gått ned!
 
@@ -38,15 +38,10 @@ Merk at det kan ta litt tid før endringene er synlige.
 
 Her finner dere noen lenker som kan være nyttige underveis i prosjektet.
 
-### Wholegrain digital sin liste over tiltak
+### CloudConvert
 
-Denne listen inneholder en rekke tiltak som kan gjøres for å gjøre en nettside mer bærekraftig.\
-[https://www.wholegraindigital.com/blog/website-energy-efficiency/](https://www.wholegraindigital.com/blog/website-energy-efficiency/)
-
-### Shortpixel
-
-Shortpixel er et verktøy som kan brukes for å komprimere bilder.\
-[https://shortpixel.com/](https://shortpixel.com/)
+Shortpixel er et verktøy som kan brukes for å konvertere og komprimere masse forskjellige filer, deriblandt bilder.\
+[https://cloudconvert.com/](https://cloudconvert.com/)
 
 ### Pexels
 
