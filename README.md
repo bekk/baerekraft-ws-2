@@ -1,4 +1,4 @@
-# Bærekraftsworkshop med Bekk - LF
+# Bærekraftsworkshop med Bekk - 2
 
 Dette prosjektet ble lagd med [Create React App](https://github.com/facebook/create-react-app).
 
