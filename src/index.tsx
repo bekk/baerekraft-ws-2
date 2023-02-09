@@ -21,7 +21,7 @@ const router = createBrowserRouter(
       ],
     },
   ],
-  { basename: "/baerekraft-ws-LF" }
+  { basename: "/baerekraft-ws-2" }
 );
 
 ReactDOM.createRoot(document.getElementById("root") as HTMLElement).render(
